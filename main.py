@@ -1,4 +1,3 @@
-
 import os
 import shutil
 
@@ -255,8 +254,3 @@ dict_with_names = {
 }
 
 run(commands)
-
-files_to_sort_dir1 = r'D:\test\dir1'  # пример пути к папке с файлами для сортировки
-files_to_sort_dir2 = r'D:\test\dir2'  # пример пути к папке с файлами для сортировки
-files_to_sort_dir3 = r'D:\test\dir3'  # пример пути к папке с файлами для сортировки
-
